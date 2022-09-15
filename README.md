@@ -2,7 +2,7 @@
 
 This is the classic Hello World in C#. The purpose was to demonstrate use of C#, my development environment, and Git/Github.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/8Jn7IQb9EbQ)
 
 # Development Environment
 

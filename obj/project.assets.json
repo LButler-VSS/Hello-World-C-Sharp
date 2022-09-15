@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Vipe1\\.nuget\\packages\\": {}
+    "C:\\Users\\vipe1.DESKTOP-QDPLFGI\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Vipe1\\Documents\\School\\CSE 310\\W01 Hello\\W01 Hello.csproj",
+      "projectUniqueName": "F:\\School\\CSE 310\\HelloWorld\\Hello-World-C-Sharp\\W01 Hello.csproj",
       "projectName": "W01 Hello",
-      "projectPath": "C:\\Users\\Vipe1\\Documents\\School\\CSE 310\\W01 Hello\\W01 Hello.csproj",
-      "packagesPath": "C:\\Users\\Vipe1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Vipe1\\Documents\\School\\CSE 310\\W01 Hello\\obj\\",
+      "projectPath": "F:\\School\\CSE 310\\HelloWorld\\Hello-World-C-Sharp\\W01 Hello.csproj",
+      "packagesPath": "C:\\Users\\vipe1.DESKTOP-QDPLFGI\\.nuget\\packages\\",
+      "outputPath": "F:\\School\\CSE 310\\HelloWorld\\Hello-World-C-Sharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Vipe1\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "D:\\Appdata\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -58,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
       }
     }
   }
